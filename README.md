@@ -16,7 +16,7 @@ Try to launch the game without downloading a language first, if the game stucks 
 The Language which the program is downloading is German, you can change the Language in the game settings after launching the first time.
 
 ## Compiling
-just try ti build it in Visual Studio. The source code is in the folder named SecretVisuals. 
+just try to build it in Visual Studio. The source code is in the folder named SecretVisuals. If you face in issues, you should be able to just decompile the .exe with DotPeek or DnSpy. (The program is not protected in anyway.
 
 Credits
 DepotDownloader
